@@ -8,6 +8,12 @@ Install the package using the devtools install_github function as shown below:
 library(devtools)
 install_github("FloWuenne/scFunctions")
 ```
+## Installation of Modified Version
+```
+install_github("Byronxy/scFunctions")
+```
+
+
 
 # SCENIC functions
 
