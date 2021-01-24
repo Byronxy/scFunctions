@@ -10,7 +10,7 @@ install_github("FloWuenne/scFunctions")
 ```
 ## Installation of Modified Version
 ```
-install_github("Byronxy/scFunctions")
+devtools::install_github("Byronxy/scFunctions")
 ```
 
 
